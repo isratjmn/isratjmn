@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Israt Moonmoon</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 <p align="right">
-    <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt=".." width="400" srcset="">
+    <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt=".." width="300" srcset="">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isratjmn&label=Profile%20views&color=0e75b6&style=flat" alt="isratjmn" /> </p>
