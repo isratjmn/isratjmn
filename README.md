@@ -8,9 +8,9 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **React.js & Laravel**
+- 🌱 I’m currently learning **Testing & AWS**
 
-- 👨‍💻 All of my projects are available at [izmtechz.com](izmtechz.com)
+- 👨‍💻 All of my projects are available at [https://tiny-rugelach.netlify.app/]
 
 - 💬 Ask me about **MERN**
 
