@@ -61,6 +61,9 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/IzMoonmoon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
