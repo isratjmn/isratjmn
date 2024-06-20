@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Testing & AWS**
 
-- 👨‍💻 All of my projects are available at [https://tiny-rugelach.netlify.app/]
+- 👨‍💻 All of my projects are available at https://tiny-rugelach.netlify.app/
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **mnmnisrat@gmail.com**
 
