@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Israt Jahan Moonmoon</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 <!-- <p align="center">
-    <img src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt=".." width="800" height="400" style="object-fit:cover">
+    <img src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt=".." width="800" height="350" style="object-fit:cover">
 </p> -->
 <p align="center">
     <img src="https://img-c.udemycdn.com/course/750x422/4209690_2a31_2.jpg" alt=".." width="800" height="400" style="object-fit:cover">
