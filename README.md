@@ -4,7 +4,7 @@
     <img src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt=".." width="800" height="250" style="object-fit:cover">
 </p> -->
 <p align="center">
-    <img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" width="800" height="250" style="object-fit:cover">
+    <img src="https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966" width="800" height="250" style="object-fit:cover">
 </p>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=isratjmn&label=Profile%20views&color=0e75b6&style=flat" alt="isratjmn" /></p> -->
 
