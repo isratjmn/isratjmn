@@ -6,7 +6,7 @@
 <p align="center">
     <img src="https://img-c.udemycdn.com/course/750x422/4209690_2a31_2.jpg" alt=".." width="800" height="400" style="object-fit:cover">
 </p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=isratjmn&label=Profile%20views&color=0e75b6&style=flat" alt="isratjmn" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=isratjmn&label=Profile%20views&color=0e75b6&style=flat" alt="isratjmn" /></p> -->
 
 ## 💫 Current Overview
 
