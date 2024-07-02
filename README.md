@@ -5,6 +5,7 @@
 </p> -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" width="800" height="250" style="object-fit:cover">
+        <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" style="width: 100%; height: auto; max-width: 800px; object-fit: cover;">
 </p>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=isratjmn&label=Profile%20views&color=0e75b6&style=flat" alt="isratjmn" /></p> -->
 
